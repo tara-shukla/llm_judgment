@@ -1,0 +1,3370 @@
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```
+
+Explanation: The essay demonstrates a mix of coherent writing, logical flow, and grammatical accuracy, but also contains several areas where improvements could be made. For example, while the essay does use various sentences and phrases, it tends to lack cohesion and coherence when discussing how one behaves around others. Additionally, the use of colloquialisms (""handsome guys"" and ""beautiful girls"") might be confusing for non-native English speakers. Overall, while the essay is somewhat readable, it falls short in terms of clarity and naturalness compared to native-like writing."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 2,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2,
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 2,
+  ""syntax"": 0,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 0,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```
+
+This evaluation is based on the coherence, cohesion, syntax, vocabulary, phraseology, grammar, and conventions of the given essay. Each category was assessed independently and found to be within acceptable ranges."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 1,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```
+
+Explanation: The essay demonstrates a strong ability to organize thoughts logically, uses appropriate sentence structure, employs varied vocabulary, has clear and concise references, and follows grammatical rules correctly. However, it also shows a lack of creativity and flexibility in expressing ideas, and occasional errors in spelling and punctuation. Overall, the essay meets all the specified rubrics except for grammar and conventions, where it receives a lower score due to frequent minor errors."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 4,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 2,
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```
+
+This evaluation reflects the essay's ability to articulate complex ideas concisely while maintaining clarity and coherence. It demonstrates a nuanced understanding of both academic failure and its potential positive outcomes, presenting information in a logical flow without overwhelming complexity. The vocabulary and phraseology show proficiency in utilizing specific terminology relevant to the topic. However, there are instances where minor grammatical and structural errors undermine readability and adherence to established conventions. Overall, this essay maintains a high standard for natural language use within its intended context."
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 5,
+  ""syntax"": 4,
+  ""vocabulary"": 5,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 4,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 1,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```
+
+The essay has some grammatical errors, particularly in the phrase ""If the school menu is changed, most of the children will be upset because the menu has all the delicious food they like."" However, these errors are minor and do not significantly hinder clarity or accuracy. The overall coherence and flow of the essay are good, and the content seems coherent and logical. There are no significant syntax or vocabulary issues, and the conventions section is quite minimal. Therefore, the overall score is 4 out of 5."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```
+
+Explanation:
+- **Overall Score:** The overall score is 4, which indicates a moderate level of proficiency but still needs improvement. The essay contains some coherent content and uses various grammatical elements, but the lack of context and depth makes it difficult to fully understand its intended message.
+- **Cohesion Score:** The cohesion score is 3, indicating that the essay maintains a logical flow and coherence despite its brevity. However, the lack of detailed examples and deeper analysis can limit the effectiveness of this aspect.
+- **Syntax Score:** The syntax score is 2, showing that the essay follows standard English rules but has room for improvement in clarity and proper use of punctuation.
+- **Vocabulary Score:** The vocabulary score is 3, suggesting that while the essay mentions concepts like community service and responsibility, these are presented without proper emphasis or elaboration.
+- **Phrasingology Score:** The phraseology score is 3, indicating that although the essay uses varied expressions"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```
+
+Explanation: The essay is mostly coherent and structured, with some grammatical issues, but overall it flows well. However, it lacks specific examples and deeper analysis of how failures contribute to success, which would enhance the coherence further."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 4,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 5,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```
+
+Explanation: The essay contains several logical errors and repetitive phrases. It lacks coherence and organization, uses vague language, and has numerous grammatical mistakes. Therefore, I scored 4 out of 5 points for overall, 3 for cohesion, 2 for syntax, 3 for vocabulary, 3 for phraseology, 3 for grammar, and 3 for conventions."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 2,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```
+
+This evaluation takes into account several aspects of the essay:
+- Cohesion: The essay uses various references and transitional words to connect ideas smoothly.
+- Syntax: The essay follows standard grammatical rules while occasionally making small mistakes.
+- Vocabulary: The essay includes a wide range of vocabulary, particularly in the context of calling parents and discussing school matters.
+- Phraseology: The essay demonstrates proper use of idiom and collocation.
+- Grammar: There are minimal errors in sentence structure and word usage.
+- Conventions: The essay adheres to appropriate classroom conventions regarding bringing phones to school."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```
+
+This evaluation reflects on the overall quality and coherence of the essay. While it includes some grammatical errors (""I have no regrets""), these are relatively minor and do not significantly impact the reader's understanding or enjoyment of the content. The cohesion and syntax sections show a good balance between logical flow and proper sentence construction. However, the lack of coherent arguments and varied vocabulary choices makes the overall score below average."
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```
+
+This evaluation was made based on the given essay content. The overall score reflects the balance between coherence, cohesion, syntax, vocabulary, phraseology, grammar, and conventions. The score indicates some areas where improvement could be made, but the overall impression of the essay is positive."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 4,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```
+
+Explanation:
+- **Overall**: The essay demonstrates a native-like facility with syntactic variety, appropriate word choice and phrases, and coherent text organization. However, it also includes some language inaccuracies, particularly with regard to synonyms and colloquialisms, which affect comprehension. These points indicate a moderate level of proficiency.
+  
+- **Cohesion**: The essay maintains a logical flow through its main arguments about accomplishing goals through action, teamwork, and personal initiative. This aspect is strong.
+
+- **Syntax**: The essay uses a wide range of syntactic structures, including simple, compound, and complex sentences, which contributes to a flexible and effective use of language. This indicates good command over grammatical elements.
+
+- **Vocabulary**: The essay employs a diverse vocabulary, ranging from simple terms like instruments and machines to more specific concepts like sports teams and games. While there are occasional minor inaccuracies due to repetition and misuse, overall this is an accurate representation of vocabulary use.
+
+-"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```
+
+This evaluation takes into account various aspects of the essay, ranging from overall fluency and coherence to specific grammatical issues. The core points covered include the enjoyment of spending time with family and friends, the activities available, and the positive impact they have on individuals' social interactions. The coherence and cohesion of the writing are good, but the syntax and grammar need improvement due to frequent minor errors. Overall, the essay demonstrates a natural-like ability to express oneself while maintaining proper English grammar and terminology."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 2,
+  ""syntax"": 0,
+  ""vocabulary"": 4,
+  ""phraseology"": 1,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```
+
+This evaluation takes into account the overall coherence of the text, the clarity and cohesiveness of its syntax, the accuracy and appropriateness of vocabulary, the effectiveness of phraseology, the grammatical correctness, and adherence to conventions."
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 1,
+  ""grammar"": 1,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```
+
+This evaluation considers various aspects of the essay, such as coherence, flow, clarity, use of vocabulary, proper grammar, adherence to conventions, and overall style. Each category has a score out of five, indicating how well the essay meets those criteria. The final score reflects a strong native-like facility in language use, while also maintaining grammatical correctness and stylistic consistency."
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 2,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 1,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```
+
+This evaluation considers several aspects of the essay, ranging from overall language usage to specific grammatical elements. The coherence and clarity of the arguments presented are high, with the author maintaining a consistent tone and logical flow throughout their discussion about the importance of positive attitudes in various contexts. Syntax and vocabulary usage are also strong, with proper sentence structure and the use of idiomatic expressions that enhance readability. However, there are a few areas where improvement could be made, particularly regarding the use of figurative language and the inclusion of examples to illustrate points. Overall, the essay demonstrates a high level of fluency and effectiveness in expressing ideas, which earns a perfect score."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```
+
+Explanation: The essay demonstrates good coherence and organization, although some elements need improvement in terms of cohesion and adherence to rules. It also has some grammatical issues and lacks proper phraseology and grammar conventions. However, the overall content is informative and coherent, making it a solid example of successful writing."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```
+
+This evaluation is based on the clarity and coherence of the essay, the effectiveness of its expression, the appropriateness of its content, the quality of its vocabulary and phrasing, the standard adherence to grammatical rules, and the accuracy of its references and examples. The overall score reflects a balanced mix of natural language skills, stylistic correctness, and linguistic proficiency."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 1,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 2,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 4,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 1,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 0,
+  ""grammar"": 1,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 1,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 0,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 1,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 5,
+  ""phraseology"": 4,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 1
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 4,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```
+
+This evaluation reflects the essay's overall quality, which includes coherence, clarity, fluency, and adherence to grammatical rules. However, some aspects could benefit further refinement, particularly in terms of vocabulary and phraseology."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 5,
+  ""phraseology"": 4,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0,
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 2,
+  ""grammar"": 0,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 3,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 5,
+  ""syntax"": 4,
+  ""vocabulary"": 5,
+  ""phraseology"": 4,
+  ""grammar"": 5,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 0
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 2,
+  ""vocabulary"": 3,
+  ""phraseology"": 3,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 4,
+  ""conventions"": 4
+}
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 2,
+  ""syntax"": 2,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 2
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```"
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 3,
+  ""vocabulary"": 4,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 2,
+  ""grammar"": 2,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 0,
+  ""grammar"": 1,
+  ""conventions"": 0
+}
+```
+
+Explanation:
+- **Overall Score**: 5 (Native-like facility)
+- **Cohesion Score**: 4 (Text organization consistent)
+- **Syntax Score**: 3 (Flexible and effective use of syntactic structures)
+- **Vocabulary Score**: 2 (Wide range of vocabulary flexibly and effectively used)
+- **Phrasingology Score**: 0 (Limited vocabulary often inappropriately used)
+- **Grammar Score**: 1 (Memorized chunks of language, or simple phrasal patterns, predominate)
+- **Conventions Score**: 0 (Minimal use of conventions; spelling, capitalization, and punctuation errors throughout)
+```"
+"```json
+{
+  ""overall"": 3,
+  ""cohesion"": 4,
+  ""syntax"": 3,
+  ""vocabulary"": 2,
+  ""phraseology"": 3,
+  ""grammar"": 3,
+  ""conventions"": 3
+}
+```"
+"```json
+{
+  ""overall"": 5,
+  ""cohesion"": 5,
+  ""syntax"": 5,
+  ""vocabulary"": 5,
+  ""phraseology"": 5,
+  ""grammar"": 5,
+  ""conventions"": 5
+}
+```
+
+This evaluation takes into account the coherence of the passage, the clarity and flow of its sentences, the correctness of its grammatical structure, the appropriateness of vocabulary used, the standardness of the style, and the adherence to established English conventions. The final score reflects a high level of quality and effectiveness in expressing oneself within the constraints of the given rubric."
+"```json
+{
+  ""overall"": 4,
+  ""cohesion"": 3,
+  ""syntax"": 4,
+  ""vocabulary"": 3,
+  ""phraseology"": 4,
+  ""grammar"": 3,
+  ""conventions"": 4
+}
+```"

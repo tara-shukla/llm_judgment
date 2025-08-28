@@ -1,0 +1,135 @@
+essay_id,pred
+9CDD8FC77D5A,"'
+Each score should be an integer between 1 and 5. Output the scores as a JSON object in the following format:
+# {
+#   "overall": score,
+#   "cohesion": score
+#   "syntax": score,
+#   "vocabulary": score,
+#   "phraseology": score,
+#   "grammar": score,
+#   "conventions": score,
+# }
+# Use the following rubric for scoring:
+# Overall
+# 5: Native-like facility in the use of language with syntactic variety, appropriate word choice and phrases; well-controlled text organization; precise use of grammar and conventions; rare language inaccuracies that do not impede communication.
+# 1: A limited range of familiar words or phrases loosely strung together; frequent errors in grammar (including syntax) and usage. Communication impeded in most cases by language inaccuracies.
+# Cohesion
+# 5: Text organization consistently well-controlled using a variety of effective linguistic features such as reference and transitional words and phrases to connect ideas across sentences and paragraphs; appropriate overlap of ideas.
+# 1: No clear control of organization; cohesive devices not present or unsuccessfully used; presentation of ideas unclear.
+# Syntax
+# 5: Flexible and effective use of a full range of syntactic structures including simple, compound, and complex sentences; there may be rare minor and negligible errors in sentence formation.
+# 1: Pervasive and basic errors in sentence structure and word order that cause confusion; basic sentence errors are common.
+# Vocabulary
+# 5: Wide range of vocabulary flexibly and effectively used to convey precise meanings; skillful use of topic-related terms and less common words; rare negligible inaccuracies in word use.
+# 1: Limited vocabulary often inappropriately used; limited control of word choice and word forms; little attempt to use topic-related terms
+# Phraseology
+# 5: Flexible and effective use of a variety of phrases, such as idioms, collocations, and lexical bundles, to convey precise and subtle meanings; rare minor inaccuracies that are negligible.
+# 1: Memorized chunks of language, or simple phrasal patterns, predominate; many repetitions and misuses of phrases.
+# Grammar
+# 5: Command of grammar and usage with few or no errors.
+# 1: Errors in grammar and usage throughout.
+# Conventions
+# 5: Consistent use of appropriate conventions to convey meaning; spelling, capitalization, and punctuation errors nonexistent or negligible.
+# 1: Minimal use of conventions; spelling, capitalization, and punctuation errors throughout.
+# Here is the essay:
+' 
+'What can you do outdoors? Where can you go? Parks provide a playground for kids to play, they also provide a basketball court, and a soccer field for those who enjoy playing sports. You can also enjoy activities at your backyard. An enjoyable way to spend time outside is to play sports and have a party or a picnic.
+
+firstly, playing sports is a enjoyable way to spend time outside because you can play for fun, practice, and get exercise. Getting exercise can be boring or just not for you but playing sports is a way to help you and a more funnier way to play outside. At the park or at your backyard you can practice playing your sport and seeing what can you improve or what you already good at. At the park you can meet people to train you and its space out so you have a lot of movement. Playing for fun at the park can help you be more social and find people in your community that has the same interest in you.
+
+Lastly, at the park you can hang out or have a picnic with friends from the community and family member. It's a way to meet new people from your community and to see your family member. You can meet new people that has the same interest and do stuff together. You can meet your neighbored and meet people from different culture.
+
+In conclusion, playing sports and having a party or a picnic is a enjoyable way to spend time outside because it's a way to meet people in the community. Local parks are a way to meet your neighbored and state parks are a way to meet people from a different culture.' 
+"
+C19EDCF7BDD6,"'
+Each score should be an integer between 1 and 5. Output the scores as a JSON object in the following format:
+# {
+#   "overall": score,
+#   "cohesion": score
+#   "syntax": score,
+#   "vocabulary": score,
+#   "phraseology": score,
+#   "grammar": score,
+#   "conventions": score,
+# }
+# Use the following rubric for scoring:
+# Overall
+# 5: Native-like facility in the use of language with syntactic variety, appropriate word choice and phrases; well-controlled text organization; precise use of grammar and conventions; rare language inaccuracies that do not impede communication.
+# 1: A limited range of familiar words or phrases loosely strung together; frequent errors in grammar (including syntax) and usage. Communication impeded in most cases by language inaccuracies.
+# Cohesion
+# 5: Text organization consistently well-controlled using a variety of effective linguistic features such as reference and transitional words and phrases to connect ideas across sentences and paragraphs; appropriate overlap of ideas.
+# 1: No clear control of organization; cohesive devices not present or unsuccessfully used; presentation of ideas unclear.
+# Syntax
+# 5: Flexible and effective use of a full range of syntactic structures including simple, compound, and complex sentences; there may be rare minor and negligible errors in sentence formation.
+# 1: Pervasive and basic errors in sentence structure and word order that cause confusion; basic sentence errors are common.
+# Vocabulary
+# 5: Wide range of vocabulary flexibly and effectively used to convey precise meanings; skillful use of topic-related terms and less common words; rare negligible inaccuracies in word use.
+# 1: Limited vocabulary often inappropriately used; limited control of word choice and word forms; little attempt to use topic-related terms
+# Phraseology
+# 5: Flexible and effective use of a variety of phrases, such as idioms, collocations, and lexical bundles, to convey precise and subtle meanings; rare minor inaccuracies that are negligible.
+# 1: Memorized chunks of language, or simple phrasal patterns, predominate; many repetitions and misuses of phrases.
+# Grammar
+# 5: Command of grammar and usage with few or no errors.
+# 1: Errors in grammar and usage throughout.
+# Conventions
+# 5: Consistent use of appropriate conventions to convey meaning; spelling, capitalization, and punctuation errors nonexistent or negligible.
+# 1: Minimal use of conventions; spelling, capitalization, and punctuation errors throughout.
+# Here is the essay:
+' 
+'Sometimes is us the ones who want to change, but more accurate is the world who make us change. There only a few people who can behave the same way they usually do no matter who or what is in his/her side. People that are usually insecure usually feel shy and nervous next to '' Handsome guys or beautiful girls '' or confident with ''No handsome guys or not good looking girls''.Unfortunate we are living in a world that make us believe in which way you should behave or what things you should do in order to fit in this system.
+
+Over the next couple years , we have been following a pattern and running on circles, what I mean by this is that we always do what other people thinks is right for us . Other problem we have , as I mention before is the way we behave next to people we consider superb or better than us .
+
+Why is that we always do what other people think is right or no ? , It has become a normal thing to do. Some people are afraid to tell their parents they don't like their opposite sex, people for lower class don't like to say that their parents work in construction or clean bathrooms , etc. Why is this happening
+
+? , it's because we're living in a world were you have to do some things in order to like other people? , funny but true it has happen to all of us , feel shame or scared to say or do something in front of people not because it's a bad thing but more because '' Is not appropiate to say this , what will the other people say ''.
+
+Why is that some people still believing in being less important or put other people in top of them ? , A guy who considers his self unatracctive won't talk to a pretty girl , you know why this happen ? it's due the ''Pretty'' , he instantaneosly will consider his self less important and a lot of thoughts will go trough his mind . I really feel bad but this is the cruel world we're living on, we're scared to feel rejected or simply ''be ourself'' .
+
+In conclusion, we are living in a world that makes us believe in which way we should behave or what things we should do in order to like other people , otherwise we could be ourself and we will not feel scared about rejection.''
+"
+99D067A7FA9C,"'
+Each score should be an integer between 1 and 5. Output the scores as a JSON object in the following format:
+# {
+#   "overall": score,
+#   "cohesion": score
+#   "syntax": score,
+#   "vocabulary": score,
+#   "phraseology": score,
+#   "grammar": score,
+#   "conventions": score,
+# }
+# Use the following rubric for scoring:
+# Overall
+# 5: Native-like facility in the use of language with syntactic variety, appropriate word choice and phrases; well-controlled text organization; precise use of grammar and conventions; rare language inaccuracies that do not impede communication.
+# 1: A limited range of familiar words or phrases loosely strung together; frequent errors in grammar (including syntax) and usage. Communication impeded in most cases by language inaccuracies.
+# Cohesion
+# 5: Text organization consistently well-controlled using a variety of effective linguistic features such as reference and transitional words and phrases to connect ideas across sentences and paragraphs; appropriate overlap of ideas.
+# 1: No clear control of organization; cohesive devices not present or unsuccessfully used; presentation of ideas unclear.
+# Syntax
+# 5: Flexible and effective use of a full range of syntactic structures including simple, compound, and complex sentences; there may be rare minor and negligible errors in sentence formation.
+# 1: Pervasive and basic errors in sentence structure and word order that cause confusion; basic sentence errors are common.
+# Vocabulary
+# 5: Wide range of vocabulary flexibly and effectively used to convey precise meanings; skillful use of topic-related terms and less common words; rare negligible inaccuracies in word use.
+# 1: Limited vocabulary often inappropriately used; limited control of word choice and word forms; little attempt to use topic-related terms
+# Phraseology
+# 5: Flexible and effective use of a variety of phrases, such as idioms, collocations, and lexical bundles, to convey precise and subtle meanings; rare minor inaccuracies that are negligible.
+# 1: Memorized chunks of language, or simple phrasal patterns, predominate; many repetitions and misuses of phrases.
+# Grammar
+# 5: Command of grammar and usage with few or no errors.
+# 1: Errors in grammar and usage throughout.
+# Conventions
+# 5: Consistent use of appropriate conventions to convey meaning; spelling, capitalization, and punctuation errors nonexistent or negligible.
+# 1: Minimal use of conventions; spelling, capitalization, and punctuation errors throughout.
+# Here is the essay:
+' 
+'Students should have a career that they want to commit to or even thinking about what they want to do in the future at a young age.
+
+Students usually don't know what they want to do in the future or out of high school. It is good thing for students to commit to something they see their selves in for a long period of time. Students should already have a thought on what they like to do. They should have the mindset on what they want to do in the future as well. Parents don't want their kid/s to sit around the house all day. The parents would want the best for their kid/s and would be proud on whatever they want to do when they grow up.
+
+Entering high school, they would have certain studies for students for what they want to do in the future. Teachers and counselors will tell you and help you what you need in the future and on what you want to do. Students will need a minimum of Sol's that they need to past and a selection of classes that they need to take. Teachers and counselors will ask you what colleges you want to go to or where you want to apply to. They will tell you what you need to do for you to get into a college that you are willing to go. Any teachers or counselors will help you on where you want to go or what you want to do with yourself in the future.
+
+While students are trying to commit a career that they want to do, it might be a little stressful. Students having a career to commit to is really hard, over whelming, and even irritating. Committing to a career is a lot, but it is also a relief because you don't have to think last minute on what career you choose to do in life. Some students thinking or committing a career is fun to them. They want to get out of high school already just to see how life will work on what they want to do but, they should never rush on what's in front of them and have fun while it last.
+
+Students should always have a career or even have a thought of in their mind for the future. They should always think about the future because if they don't it might effect them in some way. It is very important to think ahead of the game from everybody else. It is also important that students should care about the future. Students should have fun planning on their career instead of stressing about it all day and all night. Even thinking, planning, or committing to a career is such an amazing and exciting thing that all students should enjoy doing. It is a great idea that committing to a career at a young age is perfect because, students should not have worry later on and think to hard on what they want to do for themselves. '"
